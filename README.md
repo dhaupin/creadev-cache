@@ -34,3 +34,4 @@ const has = await cache.has('key');
 ## License
 
 MIT
+trigger
